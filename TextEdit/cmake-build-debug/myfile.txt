@@ -1,0 +1,6 @@
+  Read and write code effectively with an editor that deeply understands C and C++. 
+Have completion results filtered by type in Smart Completion. 
+Use Breadcrumbs to track your location inside the hierarchy of scopes. 
+Gain insight into function calls thanks to parameter name hints.
+ Find the context usages of a symbol or simply jump to it by typing its name.
+ CLion will even make sure your code conforms to coding guidelines, including formatting, naming, and more.

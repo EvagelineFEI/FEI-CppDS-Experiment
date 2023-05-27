@@ -1,0 +1,3 @@
+Create code that's beautiful and correct. 
+With CLion, potential code issues are detected instantly,
+ as you type...
